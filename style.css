@@ -1,0 +1,25 @@
+.background{
+    align-items: center;
+    background-image: url(even-odd-rules-1-11235-full.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    align-items: center;
+    text-align: center;
+    margin-top: 80px;
+}
+label{
+    font-size: 60px;
+}
+input{
+    font-size: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+button{
+    font-size: 40px;
+    border-radius: 30px;
+    margin-top: 20px;
+    color: rgb(163, 92, 0);
+    cursor: pointer;
+}
